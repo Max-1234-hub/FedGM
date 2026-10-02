@@ -1,4 +1,4 @@
-# FedGM#
+# FedGM
 This repo is the source code of the paper "Target-Oriented Federated Gradient Matching for Assisting Resource-Constrained Client in Medical Image Segmentation".
 
 This release runs binary 2D medical image segmentation with `UNet2D` on Fundus, Polyp, Prostate, and breast ultrasound data.
