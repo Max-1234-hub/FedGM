@@ -98,9 +98,9 @@ Set `GPU=1` before the script to select another GPU. Adjust dataset-specific lea
   title={Target-Oriented Federated Gradient Matching for Assisting Resource-Constrained Client in Medical Image Segmentation},
   author={Mao, Axiu and Hang, Junlong and Zhu, Meilu},
   booktitle={2026 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)},
-  year={2026}
+  year={2026},
+  organization={IEEE}
 }
-
-## License
-
-...
+```
+## Acknowledgements
+We thank the open medical imaging community for providing public datasets and benchmark resources that make this project possible.
