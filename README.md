@@ -92,14 +92,14 @@ Set `GPU=1` before the script to select another GPU. Adjust dataset-specific lea
 | `models_dict/unet2d.py` | Segmentation network |
 | `nodes.py`, `utils.py`, `loss.py` | Training state, metrics, and losses |
 
-## Citation and acknowledgement
+## Citation
+```bibtex
 @inproceedings{2026FedGM,
   title={Target-Oriented Federated Gradient Matching for Assisting Resource-Constrained Client in Medical Image Segmentation},
   author={Mao, Axiu and Hang, Junlong and Zhu, Meilu},
   booktitle={2026 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)},
   year={2026}
 }
-...
 
 ## License
 
