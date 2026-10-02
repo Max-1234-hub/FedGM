@@ -1,0 +1,10 @@
+torch
+numpy>=1.23.5,<2.5
+scipy
+albumentations
+Pillow
+opencv-python-headless
+SimpleITK
+tifffile
+scikit-learn
+matplotlib
