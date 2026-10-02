@@ -1,9 +1,7 @@
-# Target-Oriented Federated Gradient Matching for Assisting Resource-Constrained Client in Medical Image Segmentation
+# FedGM#
+This repo is the source code of the paper "Target-Oriented Federated Gradient Matching for Assisting Resource-Constrained Client in Medical Image Segmentation".
 
-Code for **FedGM**, accepted to the **2026 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)**. FedGM is the proposed method. The repository also includes federated learning methods used for comparison.
-
-This release runs binary 2D medical image segmentation with `UNet2D` on Fundus, Polyp, Prostate, and breast ultrasound data. Dataset files and trained weights are not included.
-
+This release runs binary 2D medical image segmentation with `UNet2D` on Fundus, Polyp, Prostate, and breast ultrasound data.
 
 ## Environment
 
